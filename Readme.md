@@ -49,7 +49,7 @@ This project is a simple REST API built with Django and DRF. Allows users to reg
 7. Run the development server
     python manage.py runserver
 
-8. For API Endpoints, Use swagger url localhost:8000/swagger/, also have created a Postman collection with sample data, import the collection file provided or, use the following link to import.
+8. For API Endpoints, Use swagger url localhost:8000/swagger/, also have created a Postman collection with sample data, import the collection file provided or, use the following link to import https://martian-resonance-855726.postman.co/workspace/Team-Workspace~f4c1bfd2-25fe-4d2a-8825-ac7189fe3cdc/collection/29980308-94830ce0-5a64-4af8-92cf-aeb6256e4955?action=share&creator=29980308.
 
 9. Running Tests
 
